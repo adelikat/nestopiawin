@@ -1,1 +1,10 @@
 *.opensdf
+*.sdf
+**/bin/**
+**/obj/**
+*.user
+*.suo
+lib/emucore.lib
+lib/emucoredebug.lib
+projects/debug/**
+projects/debugout/**
